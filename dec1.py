@@ -8,7 +8,7 @@ def parse_input(path):
 
 def main():
     # PART 1
-    input_path = 'input.txt'
+    input_path = 'dec1.txt'
     input_lines = parse_input(input_path)
     left=[]
     right=[]
