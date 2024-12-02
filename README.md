@@ -1,0 +1,3 @@
+scratchpad of solutions for advent.
+
+these are probably not the most efficient so not for machine consumption...
